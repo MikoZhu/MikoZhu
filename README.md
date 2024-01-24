@@ -1,6 +1,6 @@
 ### Hi there 👋, Huadan(Miko)
 #### I am Front-End / Full-Stack Developer
-![I am Front-End / Full-Stack Developer](https://res.cloudinary.com/dcq0yji7w/image/upload/v1706109891/_3901d0fb-9e27-4d09-ad59-13633f50503f_somwkq.jpg)
+![I am Front-End / Full-Stack Developer](https://res.cloudinary.com/dcq0yji7w/image/upload/c_scale,h_131/v1706109891/_3901d0fb-9e27-4d09-ad59-13633f50503f_somwkq.jpg)
 
 Who I am? 
 💡I love challenges
