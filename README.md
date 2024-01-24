@@ -1,12 +1,11 @@
 ### Hi there 👋, Huadan(Miko)
 #### I am Front-End / Full-Stack Developer
-![I am Front-End / Full-Stack Developer](https://www.bing.com/images/create/a-mushroom-full-of-technology-sense-sits-in-front-/1-65b127b3e49a49cdb66bf5b773c8e7dd?id=uH9BHbRqUDjrIctY8Kk3fg%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay)
+![I am Front-End / Full-Stack Developer](https://res.cloudinary.com/dcq0yji7w/image/upload/v1706109891/_3901d0fb-9e27-4d09-ad59-13633f50503f_somwkq.jpg)
 
 Who I am? 
 💡I love challenges
 💡I love Lego### Hi there 👋, Huadan(Miko)
-#### I am Front-End / Full-Stack Developer
-![I am Front-End / Full-Stack Developer](https://res.cloudinary.com/dcq0yji7w/image/upload/v1706109891/_3901d0fb-9e27-4d09-ad59-13633f50503f_somwkq.jpg)
+
 
 Who I am? 
 💡I love challenges
