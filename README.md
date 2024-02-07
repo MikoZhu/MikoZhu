@@ -12,7 +12,7 @@ Who I am?
 Skills: REACT/JS/ HTML/CSS/SCSS/Tailwind/Python/Bash/Docker/Node.js/Linux/Windows/Git/Jest/Figma etc.
 
 - 🔭 I’m currently working at KTH Royal Institute of Technology 
-- 🌱 I’m currently learning Next.js & Type.js & Next.js 
+- 🌱 I’m currently learning Next.js & Typescript & .Net
 - 📫 How to reach me: www.linkedin.com/in/huadan-zhu-802864134 
 
 
